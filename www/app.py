@@ -115,8 +115,9 @@ def datetime_filter(t):
 
 @asyncio.coroutine
 def init(loop):
-	yield from orm.create_pool(my_loop=loop, host='127.0.0.1', port=3306, user='www', password='www', db='awesome')
-	app = web.Application(my_loop=loop, middlewares=[
+	yield from orm.create_pool(loop=loop, host='127.0.0.1', port=3306, user='root', password='root', db='awesome')
+	print('after create pool...')
+	app = web.Application(loop=loop, middlewares=[
 		logger_factory, response_factory
 		])
 	init_jinja2(app, filters=dict(datetime=datetime_filter))
@@ -126,6 +127,6 @@ def init(loop):
 	logging.info('Server started at http://127.0.0.1:9000...')
 	return srv
 
-loop = asyncio.get_event_loop()
-loop.run_until_complete(init(loop))
-loop.run_forever()
+app_loop = asyncio.get_event_loop()
+app_loop.run_until_complete(init(app_loop))
+app_loop.run_forever()
