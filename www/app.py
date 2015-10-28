@@ -10,7 +10,7 @@ import asyncio,os,json,time
 from datetime import datetime
 
 from aiohttp import web
-from jinja2 import Enviroment, FileSystemLoader
+from jinja2 import Environment, FileSystemLoader
 
 import orm
 from coroweb import add_routes, add_static
@@ -29,7 +29,7 @@ def init_jinja2(app, **kw):
 	if path is None:
 		path = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'templates')
 	logging.info('set jinja2 template path: %s' % path)
-	env = Enviroment(loader=FileSystemLoader(path), **options)
+	env = Environment(loader=FileSystemLoader(path), **options)
 	filters = kw.get('filters', None)
 	if filters is not None:
 		for name, f in filters.items():
@@ -98,7 +98,7 @@ def response_factory(app, handler):
 		resp = web.Response(body=str(r).encode('utf-8'))
 		resp.content_type = 'text/plain;charset=utf-8'
 		return resp
-	retun response
+	return response
 
 def datetime_filter(t):
 	delta = int(time.time() - t)
@@ -115,8 +115,8 @@ def datetime_filter(t):
 
 @asyncio.coroutine
 def init(loop):
-	yield from orm.create_pool(loop=loop, host='127.0.0.1', port=3306, user='www', password='www', db='awesome')
-	app = web.Application(loop=loop, middlewares=[
+	yield from orm.create_pool(my_loop=loop, host='127.0.0.1', port=3306, user='www', password='www', db='awesome')
+	app = web.Application(my_loop=loop, middlewares=[
 		logger_factory, response_factory
 		])
 	init_jinja2(app, filters=dict(datetime=datetime_filter))
