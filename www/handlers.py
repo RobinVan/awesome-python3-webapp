@@ -4,7 +4,7 @@
 
 import re, time, json, logging, hashlib, base64, asyncio
 
-frm coroweb import get, post
+from coroweb import get, post
 
 from models import User, Comment, Blog, next_id
 
@@ -12,6 +12,6 @@ from models import User, Comment, Blog, next_id
 def index(request):
 	users = yield from User.findAll()
 	return {
-		'__template__':'test.html'
+		'__template__':'test.html',
 		'users':users
 	}
