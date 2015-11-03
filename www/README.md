@@ -177,6 +177,8 @@ Django 就像 IDE 给你的插件（admin,orm,route 等）没法换，但是 Fla
 ##  [Python官网](https://docs.python.org/3.4/library/asyncio.html?highlight=asyncio#module-asyncio)
    + [Full Stack Python](http://www.fullstackpython.com/introduction.html?from=itblog)
    + [The Vital Guide to Python Interviewing](http://www.toptal.com/python#hiring-guide)
+   + [Python之科普篇](http://www.douban.com/group/topic/13347288/)
+   + [你是如何自学 Python 的？](http://www.zhihu.com/question/20702054)
    + [python模块之HTMLParser](http://www.tuicool.com/articles/jiqYr2)
    + [python:利用asyncio进行快速抓取](http://blog.jobbole.com/63897/)
    + [使用Python下载邮件(pop/imap)](http://www.pythoner.com/414.html)
