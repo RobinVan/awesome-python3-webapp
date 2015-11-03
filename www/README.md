@@ -157,7 +157,7 @@ Django 就像 IDE 给你的插件（admin,orm,route 等）没法换，但是 Fla
     * [API Documentation for MongoDB Drivers](http://api.mongodb.org/)
 
 + [mysql](http://www.mysql.com)
-    * [MySQL Documentation]http://dev.mysql.com/doc/
+    * [MySQL Documentation](http://dev.mysql.com/doc/)
     * [MySQL教程](http://www.yiibai.com/mysql/)
     * [Basic MySQL Tutorial](http://www.mysqltutorial.org/basic-mysql-tutorial.aspx)
 
@@ -172,7 +172,7 @@ Django 就像 IDE 给你的插件（admin,orm,route 等）没法换，但是 Fla
 >W3School是网页编程的学习网站，涉及HTML, CSS, JavaScript, SQL, XML等 内容
 
 ## [廖雪峰的官方网站](http://www.liaoxuefeng.com/)
->学习网站编程的好去处, GitHub地址为: <https://github.com/michaelliao>
+>学习Web编程的好去处, GitHub地址为: <https://github.com/michaelliao>
 
 ##  [Python官网](https://docs.python.org/3.4/library/asyncio.html?highlight=asyncio#module-asyncio)
    + [Full Stack Python](http://www.fullstackpython.com/introduction.html?from=itblog)
