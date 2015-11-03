@@ -6,7 +6,7 @@
 ## [aiohttp]()
 
 ## [Flask](http://flask.pocoo.org/)
-    Flask是基于Werkzeug, Jinja2的 Python微框架 
+    Flask是基于Werkzeug, Jinja2的 Python微框架
 
    + [欢迎来到 Flask 的世界](http://dormousehole.readthedocs.org/en/latest/)
    + [Python和Flask真是太强大了](http://python.jobbole.com/81065/)
@@ -21,7 +21,7 @@
     W3School是网页编程的学习网站，涉及HTML, CSS, JavaScript, SQL, XML等 内容
 
 ## [廖雪峰的官方网站](http://www.liaoxuefeng.com/)
-    学习网站编程的好去处, GitHub地址为: https://github.com/michaelliao  
+    学习网站编程的好去处, GitHub地址为: https://github.com/michaelliao
 
 ##  [Python官网](https://docs.python.org/3.4/library/asyncio.html?highlight=asyncio#module-asyncio)
    + [python模块之HTMLParser](http://www.tuicool.com/articles/jiqYr2)
