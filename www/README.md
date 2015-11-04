@@ -197,3 +197,8 @@ Django 就像 IDE 给你的插件（admin,orm,route 等）没法换，但是 Fla
    + [基于scrapy的上市公司信息抓取工具](https://github.com/zihaolucky/Crawl_Stocks_Info)
    + [What is a metaclass in Python?](http://stackoverflow.com/questions/100003/what-is-a-metaclass-in-python)
    + [Welcome to aiomysql’s documentation!](http://aiomysql.readthedocs.org/en/latest/)
+
+## HTTP协议
++ [HTTP必知必会](http://www.kuqin.com/shuoit/20151020/348570.html)
+
+## [被误解的 MVC 和被神化的 MVVM](http://blog.devtang.com/blog/2015/11/02/mvc-and-mvvm/)
