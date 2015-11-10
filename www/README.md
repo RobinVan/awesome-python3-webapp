@@ -31,6 +31,7 @@
     * [flask的优点是什么？](http://python-china.org/t/93)
     * [Python China](http://python-china.org/)
     * [Flask+SAE快速打造微信公众帐号（有码）](http://blog.csdn.net/linhan8/article/details/8746110)
+    * [Flask Web Development](https://segmentfault.com/blog/young_ipython?page=1)
 
 + [tornado](http://www.tornadoweb.org/en/stable/)
     * [Tornado Web Server](http://tornado.readthedocs.org/en/latest/index.html)
@@ -195,10 +196,16 @@ Django 就像 IDE 给你的插件（admin,orm,route 等）没法换，但是 Fla
    + [500lines](https://github.com/aosabook/500lines)
    + [Python爬虫学习记录](http://blog.csdn.net/cwyalpha/article/details/48111173)
    + [基于scrapy的上市公司信息抓取工具](https://github.com/zihaolucky/Crawl_Stocks_Info)
-   + [What is a metaclass in Python?](http://stackoverflow.com/questions/100003/what-is-a-metaclass-in-python)
+   + [What is a metaclass in Python?](http://blog.jobbole.com/21351/)
    + [Welcome to aiomysql’s documentation!](http://aiomysql.readthedocs.org/en/latest/)
 
 ## HTTP协议
-+ [HTTP必知必会](http://www.kuqin.com/shuoit/20151020/348570.html)
++ [HTTP必知必会](http://www.cnblogs.com/starstone/p/4890409.html)
++ [图解HTTP（上）](http://www.cnblogs.com/xing901022/p/4309840.html)
++ [图解HTTP（下）](http://www.cnblogs.com/xing901022/p/4311987.html)
++ [HTTP响应头和请求头信息对照表](http://tools.jb51.net/table/http_header)
++ [HTTP 状态消息](http://www.w3school.com.cn/tags/html_ref_httpmessages.asp)
++ [关于URL编码](http://www.ruanyifeng.com/blog/2010/02/url_encoding.html)
+
 
 ## [被误解的 MVC 和被神化的 MVVM](http://blog.devtang.com/blog/2015/11/02/mvc-and-mvvm/)
