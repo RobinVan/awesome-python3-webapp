@@ -178,6 +178,8 @@ Django 就像 IDE 给你的插件（admin,orm,route 等）没法换，但是 Fla
 ##  [Python官网](https://docs.python.org/3.4/library/asyncio.html?highlight=asyncio#module-asyncio)
    + [Full Stack Python](http://www.fullstackpython.com/introduction.html?from=itblog)
    + [The Vital Guide to Python Interviewing](http://www.toptal.com/python#hiring-guide)
+   + [一篇文章入门Python生态系统](http://codingpy.com/article/python-ecosystem-introduction/)
+   + [Python进阶必读汇总](http://www.kuqin.com/shuoit/20151116/348975.html)
    + [Python之科普篇](http://www.douban.com/group/topic/13347288/)
    + [你是如何自学 Python 的？](http://www.zhihu.com/question/20702054)
    + [python模块之HTMLParser](http://www.tuicool.com/articles/jiqYr2)
@@ -195,6 +197,7 @@ Django 就像 IDE 给你的插件（admin,orm,route 等）没法换，但是 Fla
    + [标准爬虫初探，来自Python之父的大餐！](http://developer.51cto.com/art/201411/456836.htm)
    + [500lines](https://github.com/aosabook/500lines)
    + [Python爬虫学习记录](http://blog.csdn.net/cwyalpha/article/details/48111173)
+   + [python3爬虫之入门和正则表达式](http://rlovep.com/2015/09/23/python3%E7%88%AC%E8%99%AB%E4%B9%8B%E5%85%A5%E9%97%A8%E5%92%8C%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F/)
    + [基于scrapy的上市公司信息抓取工具](https://github.com/zihaolucky/Crawl_Stocks_Info)
    + [What is a metaclass in Python?](http://blog.jobbole.com/21351/)
    + [Python高级特性（1）：Iterators、Generators和itertools](http://blog.jobbole.com/66097/)
@@ -215,6 +218,9 @@ Django 就像 IDE 给你的插件（admin,orm,route 等）没法换，但是 Fla
    + [爱的 Python : Python中函数式编程](http://blog.jobbole.com/35028/)
    + [Python编程中的反模式](http://blog.jobbole.com/74252/)
    + [Python 代码性能优化技巧](http://blog.jobbole.com/77042/)
+   + [Python 3 Readiness](http://py3readiness.org/)
+   + [Special Method Names](http://www.diveintopython3.net/special-method-names.html)
+   + [与 Python 无缝集成——基本特殊方法 4](http://segmentfault.com/a/1190000004008393?utm_source=Weibo&utm_medium=shareLink&utm_campaign=socialShare)
 
 ## HTTP协议
 + [HTTP必知必会](http://www.cnblogs.com/starstone/p/4890409.html)
