@@ -221,6 +221,17 @@ Django 就像 IDE 给你的插件（admin,orm,route 等）没法换，但是 Fla
    + [Python 3 Readiness](http://py3readiness.org/)
    + [Special Method Names](http://www.diveintopython3.net/special-method-names.html)
    + [与 Python 无缝集成——基本特殊方法 4](http://segmentfault.com/a/1190000004008393?utm_source=Weibo&utm_medium=shareLink&utm_campaign=socialShare)
+   + [提高你的Python: 解释‘yield’和‘Generators（生成器）’](http://www.oschina.net/translate/improve-your-python-yield-and-generators-explained)
+   + [从底层理解Python的执行](http://www.csdn.net/article/2015-05-28/2824795)
+   + [Python 高级特性](http://segmentfault.com/a/1190000000498466?utm_source=tuicool&utm_medium=referral)
+   + [Python函数式编程指南](http://www.cnblogs.com/huxi/archive/2011/06/18/2084316.html)
+   + [Python 开源异步并发框架的未来](http://segmentfault.com/a/1190000000471602)
+   + [Asynchronous IO Support Rebooted: the "asyncio" Module](http://legacy.python.org/dev/peps/pep-3156/)
+   + [Understanding Asynchronous IO With Python 3.4's Asyncio And Node.js](http://sahandsaba.com/understanding-asyncio-node-js-python-3-4.html)
+   + [python:利用asyncio进行快速抓取](http://developer.51cto.com/art/201403/434352.htm)
+   + [初探 Python 3 的异步 IO 编程](http://www.keakon.net/2015/09/07/%E5%88%9D%E6%8E%A2Python3%E7%9A%84%E5%BC%82%E6%AD%A5IO%E7%BC%96%E7%A8%8B)
+   + [Python 3.4 中新的 asyncio ： Servers、Protocols 和 Transports](http://www.oschina.net/translate/the-new-asyncio-in-python-34-servers-pro)
+
 
 ## HTTP协议
 + [HTTP必知必会](http://www.cnblogs.com/starstone/p/4890409.html)
