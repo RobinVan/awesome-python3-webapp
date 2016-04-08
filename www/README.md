@@ -1,5 +1,11 @@
 # Python Web开发相关组件
 
+[Full Stack Python](http://www.fullstackpython.com/introduction.html)
+[Learn X in Y minutes](https://learnxinyminutes.com/docs/python3/)
+[Python Module of the Week](https://pymotw.com/2/contents.html)
+[The Hitchhiker’s Guide to Python!](http://docs.python-guide.org/en/latest/)
+[Python 基础教程](http://www.runoob.com/python/python-tutorial.html)
+
 ## Python Web框架
 
 + [wsgi](http://wsgi.readthedocs.org/en/latest/)
@@ -231,6 +237,7 @@ Django 就像 IDE 给你的插件（admin,orm,route 等）没法换，但是 Fla
    + [python:利用asyncio进行快速抓取](http://developer.51cto.com/art/201403/434352.htm)
    + [初探 Python 3 的异步 IO 编程](http://www.keakon.net/2015/09/07/%E5%88%9D%E6%8E%A2Python3%E7%9A%84%E5%BC%82%E6%AD%A5IO%E7%BC%96%E7%A8%8B)
    + [Python 3.4 中新的 asyncio ： Servers、Protocols 和 Transports](http://www.oschina.net/translate/the-new-asyncio-in-python-34-servers-pro)
+   + [Python程序的执行原理](http://tech.uc.cn/?p=1932)
 
 
 ## HTTP协议
